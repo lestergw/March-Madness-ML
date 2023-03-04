@@ -1,0 +1,7 @@
+- ELO Rating Model
+- Splitting game data into winning teams and losing teams
+	- Summarize all tables to the team level
+	- Summarize the team's stats/metrics
+	- Simulate games between all teams
+	- Assign probabilities based on the results
+	- Do all for men first, then do women's bracket?
